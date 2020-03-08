@@ -1,1 +1,1 @@
-# singolo
+# https://alexandrkolyadich.github.io/singolo/
